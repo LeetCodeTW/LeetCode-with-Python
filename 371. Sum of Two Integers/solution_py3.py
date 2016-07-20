@@ -24,10 +24,10 @@ class Solution(object):
             b = carry << 1
         return a
 
-
+'''
 if __name__ == "__main__":
     # one and two equals three.
     print(Solution().getSum(1, 2))
     # fifteen and three equals eighteen.
     print(Solution().getSum(15, 3))
-
+'''
